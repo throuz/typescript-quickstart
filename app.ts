@@ -1,3 +1,3 @@
-import { log } from "./src/tetete";
+import { log } from "./src/helpers";
 
 log("koko");
