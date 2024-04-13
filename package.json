@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "app": "ts-node app.ts"
+  },
   "devDependencies": {
+    "@tsconfig/recommended": "^1.0.6",
     "typescript": "^5.4.5"
   }
 }
